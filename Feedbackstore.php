@@ -1,31 +1,5 @@
 
-Conversation opened. 1 read message.
 
-Skip to content
-Using Sri Krishna College of Engineering and Technology Mail with screen readers
-159 of 3,620
- 
-(no subject)
-Inbox
-	x
-Nithya Shree N N
-	
-AttachmentsApr 23
-	
-to me
-
-10 Attachments
-	
-Click here to Reply or Forward
-Using 2.35 GB
-Manage
-Program Policies
-Powered by
-Google
-Last account activity: 13 hours ago
-Details
-	
-	
 
  
  <?php
